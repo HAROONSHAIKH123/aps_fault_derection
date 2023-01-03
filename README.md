@@ -72,3 +72,22 @@ git pull origin main
 ```
 Note: origin--> contains url to your github repo
 main--> is your branch name
+
+```
+git remote -v
+```
+```
+git remote remove origin
+```
+```
+git remote add origin https://github.com/HAROONSHAIKH123/aps_fault_derection.git
+```
+```
+git pull origin main
+```
+```
+git reset --soft 'path'
+```
+```
+git push origin main -f
+```
